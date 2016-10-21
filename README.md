@@ -1,6 +1,6 @@
 # cFS: CCSDS File Delivery Protocol (CFDP)
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-cfdp.svg)](https://github.com/yusend/cfs-cfdp/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-cfdp.svg)](https://github.com/lassondesat/cfs-cfdp/releases)
 
 * [Original README](cfs-cf-app-OSS-readme.txt)
 
@@ -34,5 +34,5 @@ CCSDS packets on the cFE's software bus middleware.
 
 * https://sourceforge.net/projects/cfs-cfdp/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
